@@ -1,0 +1,2 @@
+# MagicCudeJavaClient
+Graduation project
