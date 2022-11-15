@@ -3,7 +3,8 @@ Graduation project
 
 如何启动
 ---
-这是个java项目，可以直接把src放进你的eclipse项目里，或者双击start.bat文件快速启动(但我真的不确定会不会有什么编码问题，我尽力了)。  
+这是个java项目，可以直接双击start.bat文件快速启动(但我真的不确定会不会有什么编码问题，我尽力了)。 
+或者把src放进你的java编译器里。
 这里以eclipse这个编译器为例，你只需要在eclipse里新建一个java project，然后在src里面塞入对应的包和java文件就行了。如果出现中文乱码，那就用记事本打开java文件，再把里面的代码手动复制一下就行了。  
 之后直接运行cubeDemo包下的Main.java文件，如果一切顺利，那么你将看到一个显示了魔方的java窗口。
 
